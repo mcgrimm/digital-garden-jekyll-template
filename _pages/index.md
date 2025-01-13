@@ -5,7 +5,7 @@ id: home
 permalink: /
 ---
 
-# Obsidian个人笔记知识管理如何应用AI和自动化二十四个技巧! 🌱
+# Obsidian应用AI和自动化二十四个技巧! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.

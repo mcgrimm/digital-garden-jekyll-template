@@ -13,7 +13,7 @@ permalink: /
 
 
 
-<strong>最新笔记:</strong>:]<br>
+<strong>最新笔记:</strong>
 
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
